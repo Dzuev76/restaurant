@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Gentium Book Basic";
+    src: url("gentium-book-basic.eot"); /* IE9 */
+    src: url("gentium-book-basic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("gentium-book-basic.woff") format("woff"), /* chrome, firefox */
+    url("gentium-book-basic.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("gentium-book-basic.svg#Gentium Book Basic") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

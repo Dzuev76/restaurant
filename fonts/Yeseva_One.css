@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Yeseva One";
+    src: url("Yeseva_One.eot"); /* IE9 */
+    src: url("Yeseva_One.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Yeseva_One.woff") format("woff"), /* chrome, firefox */
+    url("Yeseva_One.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("Yeseva_One.svg#Yeseva One") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
